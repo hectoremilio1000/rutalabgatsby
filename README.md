@@ -1,8 +1,18 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
+  <a href="www.rutalab.com/">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
+
+<h1 align="center">
+  Primera versión de rutalab
+</h1>
+
+Esta es la versión de Github para el proyecto de RUTALAB de la WebApp que se va a lanzar al mercado. Dentro de esta página web se podrá tener al principio los siguientes servicios:
+
+1.  **.Front page**
+    Home page de la página donde se explica qué es RUTALAB
+
 <h1 align="center">
   Gatsby minimal starter
 </h1>
@@ -52,4 +62,5 @@
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
 # rutalabfinal

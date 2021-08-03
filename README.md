@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.rutalab.com/">
-    <img alt="Gatsby" src="hhttp://www.rutalab.com/static/logo_rutalab_final-afdf0e12313c122c09a65385cbc31980.png" width="60" />
+    <img src="http://www.rutalab.com/static/logo_rutalab_final-afdf0e12313c122c09a65385cbc31980.png" width="60" alt="Rutalab" />
   </a>
 </p>
 

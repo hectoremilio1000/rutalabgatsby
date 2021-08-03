@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="www.rutalab.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
+  <a href="http://www.rutalab.com/">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>

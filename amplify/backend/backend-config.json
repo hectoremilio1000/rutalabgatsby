@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "rutalab8afa2bd2": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

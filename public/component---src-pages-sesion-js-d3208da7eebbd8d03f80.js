@@ -1,0 +1,2 @@
+(self.webpackChunkrutalab=self.webpackChunkrutalab||[]).push([[94],{2097:function(n,e,u){"use strict";u.r(e),u.d(e,{default:function(){return r}});var t=u(7294);function r(){return t.createElement("div",null,"iniciar sesion")}}}]);
+//# sourceMappingURL=component---src-pages-sesion-js-d3208da7eebbd8d03f80.js.map

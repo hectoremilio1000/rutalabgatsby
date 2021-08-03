@@ -2,21 +2,35 @@
   "name": "rutalab",
   "version": "1.0.0",
   "private": true,
-  "description": "RUTALAB",
+  "description": "rutalab",
   "author": "hectoremilio1000",
-  "keywords": [
-    "gatsby"
-  ],
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy": "gatsby-plugin-s3 deploy"
   },
+  "license": "ISC",
   "dependencies": {
-    "gatsby": "^3.4.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "@aws-amplify/cli": "^4.51.4",
+    "@aws-amplify/ui-react": "^1.2.1",
+    "aws-amplify": "^4.0.3",
+    "bootstrap": "4.6",
+    "gatsby": "^3.6.1",
+    "gatsby-plugin-anchor-links": "^1.2.1",
+    "gatsby-plugin-postcss": "^4.6.0",
+    "gatsby-plugin-s3": "^0.3.8",
+    "gatsby-plugin-sharp": "^3.6.0",
+    "gatsby-plugin-theme-ui": "^0.9.1",
+    "gatsby-theme-amplify-cognito": "^3.0.0",
+    "gatsby-transformer-sharp": "^3.6.0",
+    "global": "^4.4.0",
+    "postcss": "^8.3.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "^17.0.2",
+    "theme-ui": "^0.9.1"
   }
 }

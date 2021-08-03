@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://rutalab/./src/pages/sesion.js"],"names":["sesion"],"mappings":"iKAEe,SAASA,IACpB,OACI","file":"component---src-pages-sesion-js-e03d8635d3d59f09bf85.js","sourcesContent":["import React from 'react'\n\nexport default function sesion() {\n    return (\n        <div>\n            iniciar sesion nuevo!!!\n        </div>\n    )\n}\n"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(self.webpackChunkrutalab=self.webpackChunkrutalab||[]).push([[425],{4425:function(n,t,u){"use strict";u.r(t),u.d(t,{amplify_auth_container:function(){return r}});var e=u(527),r=function(){function n(n){(0,e.r)(this,n)}return n.prototype.render=function(){return(0,e.h)(e.H,null,(0,e.h)("form",{autoComplete:"on",hidden:!0},(0,e.h)("input",{name:"username"}),(0,e.h)("input",{name:"password",type:"password"}),(0,e.h)("input",{type:"submit"})),(0,e.h)("slot",null))},n}()}}]);
+//# sourceMappingURL=425-6628244c3a4af7efbde7.js.map
